@@ -42,7 +42,9 @@ Like I mentioned before: the users should be able to explore the results — fro
 * Present the results
 
 ## Prototype
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/the-exceptional-exception/probability-of-becoming-an-influencer/HEAD)
+To access an interactive version of the code, click on the binder badge: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/the-exceptional-exception/probability-of-becoming-an-influencer/HEAD)
+
+Or you can always look [here!](prototype.ipynb)
 
 ## Challenges
 In its current state, this application should not be trusted at all and frankly, no application will ever be able to tell in advance what any person will achieve or not. However, the day might come when this application will be able to identify which characteristics that tend to be subject to bias. 
@@ -62,3 +64,6 @@ If you have read this far, you know that there is indeed a long way to go for th
 The question I have not yet answered is this: Why did I choose "influencers" and not "people in a position of power"? As a matter of fact, being in a position of power is not necessarily equivalent to having the ability to influence and maybe even inspire others. 
 
 At the same time, I would love to get the distribution of characteristics for many positions in society. Importantly, I want people to reflect if certain characteristics (e.g. gender, religion, race) GENUINELY predetermine whether the person has spectacular ideas that might change the world. In an ideal world, everyone would have the same amount of power and influence. Since that is not how it works, we should at least aim for diversity. 
+
+## Acknowledgments
+I would like to thank everyone who has taught me that life should be more than surviving and to effectively combat social problems, we need to include everyone.
