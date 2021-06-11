@@ -42,8 +42,7 @@ Like I mentioned before: the users should be able to explore the results — fro
 * Present the results
 
 ## Prototype
-
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/the-exceptional-exception/probability-of-becoming-an-influencer/HEAD)
 
 ## Challenges
 In its current state, this application should not be trusted at all and frankly, no application will ever be able to tell in advance what any person will achieve or not. However, the day might come when this application will be able to identify which characteristics that tend to be subject to bias. 
