@@ -66,4 +66,4 @@ The question I have not yet answered is this: Why did I choose "influencers" and
 At the same time, I would love to get the distribution of characteristics for many positions in society. Importantly, I want people to reflect if certain characteristics (e.g. gender, religion, race) GENUINELY predetermine whether the person has spectacular ideas that might change the world. In an ideal world, everyone would have the same amount of power and influence. Since that is not how it works, we should at least aim for diversity. 
 
 ## Acknowledgments
-I would like to thank everyone who has taught me that life should be more than surviving and to effectively combat social problems, we need to include everyone.
+I would like to thank everyone who has taught me that life should be more than surviving and to effectively combat social problems, we need to include everyone. In addition, I would like to thank Reaktor and the University of Helsinki for two fantastic AI courses!
